@@ -3,4 +3,4 @@
 const gooseFilter = (birds) => {
 	let geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
 	return birds.filter( elem => !geese.includes(elem) )
-};
+  };
