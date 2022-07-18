@@ -5,7 +5,7 @@ def generate_hashtag(s):
 
 
 
-print(generate_hashtag(' '))      #'#Codewars'
+print(generate_hashtag(' '))      # False
 print(generate_hashtag('Codewars      is'))      #'#Codewars'
 print(generate_hashtag('Codewars Is Nice'))    #'#CodewarsIsNice'
-print(generate_hashtag('Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong Cat'))
+print(generate_hashtag('Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong Cat')) # False
