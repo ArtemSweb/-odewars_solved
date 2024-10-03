@@ -1,2 +1,2 @@
-# -odewars_solved
-Задачи с сайта codewars.com по JS
+# Codewars_solved
+Задачи с сайта codewars.com
